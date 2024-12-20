@@ -55,14 +55,14 @@ How It Works
 
 Getting Started
 
-  - Clone the Repository
+  1. Clone the Repository
     
          https://github.com/Sanjay-2k-5/Vehicle-Rental-System.git
          cd vehicleRentalSystem/src/LoginAndDB
 
-  - Compile and Run the Application
+  2. Compile and Run the Application
 
-     - Use a Java IDE or command line to compile and run the application:
+   - Use a Java IDE or command line to compile and run the application:
 
            javac login.java
            java login
